@@ -1,0 +1,7 @@
+print("Odami ersang, demagil odami,\nOniki, yo'q xalq g'amidin g'ami")
+print(2+4*2)
+print(19/5)
+print(20/5)
+print(16//4)
+print(2**4)
+print(5**4)
