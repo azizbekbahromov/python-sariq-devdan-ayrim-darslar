@@ -1,10 +1,9 @@
-matn = "Hello World!"
-print(matn)
+ism = "Abdulloh"
+yosh = 25
+print(ism)
+print(yosh)
 
-xabar = "Assalom alaykum"
-print(xabar)
-
-radius = 5
-pi = 3.14159
-aylana_yuzi = pi * radius**2
-print("Radiusi" , radius, "ga teng aylananing yuzi=", aylana_yuzi)
+ism = "Abdulloh"
+print(ism)
+ism="Muhammad"
+print(ism)

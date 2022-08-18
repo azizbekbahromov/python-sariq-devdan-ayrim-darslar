@@ -1,16 +1,15 @@
-x = int(input("Istalgan son kiriting:\n>>>"))
-print(x, " ning kvadrati ", x**2, " ga teng")
-print(x, " ning kubi ", x**3, " ga teng")
+a = 20 
+b = -30 
+c = a + b
+print(c)
 
-
-yosh = int(input("Yoshingiz nechida? \n>>>"))
-t_yil = 2020-yosh
-print("Siz ", t_yil, " da tug'ilgansiz")
-
-
-a = float(input("Birinchi sonni kiriting: "))
-b = float(input("Ikkinchi sonni kiriting: "))
-print(f"{a}+{b}=", a+b)
-print(f"{a}-{b}=", a-b)
-print(f"{a}x{b}=", a*b)
-print(f"{a}/{b}=", a/b)
+pi = 3.14159 
+radius = 10  
+diametr = 2*radius
+print("Aylana uzunligi ", pi*diametr, " ga teng.")
+a = 2
+b = 3.0
+print(a+b) 
+print(a*b)
+print(a**b)
+print(2*(a+b))
